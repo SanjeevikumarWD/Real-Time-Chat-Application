@@ -1,3 +1,5 @@
+# Real Time Chat Application
+
 ### 🌟 Project Highlights
 
 - Built with the powerful **MERN stack** (MongoDB, Express, React, Node.js) combined with **Socket.io** for seamless real-time communication.
